@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/badge/Website-Personal-blue)](https://westdoorsad.github.io)
 [![Google Scholar](https://img.shields.io/badge/Google-Scholar-red)](https://scholar.google.com/citations?user=PI7ESDgAAAAJ&hl=zh-CN)
 
-←--代表作 
+↑本人学术经历与代表作
 ---
 
 ## 📖 关于我
