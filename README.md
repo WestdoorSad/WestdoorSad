@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [你的名字]
+# 👋 Hello, I'm 邵铭塬(Mingyuan Shao)
 
 [![Website](https://img.shields.io/badge/Website-Personal-blue)](https://westdoorsad.github.io)
 [![Google Scholar](https://img.shields.io/badge/Google-Scholar-red)](https://scholar.google.com/citations?user=PI7ESDgAAAAJ&hl=zh-CN)
