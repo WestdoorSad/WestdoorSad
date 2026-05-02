@@ -16,7 +16,7 @@
 ---
 
 ## 📝 最近学术动态
-- 📢 **[2026.04]**: 自动调制识别方向(小样本元学习) TCOM 接收 新作 [![DDNet](https://img.shields.io/badge/Website-Personal-blue)]([https://westdoorsad.github.io](https://ieeexplore.ieee.org/document/11501955)) 欢迎大家交流
+- 📢 **[2026.04]**: 自动调制识别方向(小样本元学习) TCOM 接收 新作 [![DDNet](https://img.shields.io/badge/Website-Personal-blue)]([(https://ieeexplore.ieee.org/document/11501955)]) 欢迎大家交流
 - 📢 **[2026.02]**: 自动调制识别方向(域增量) IoTJ在投
 - 📢 **[2026.01]**: 水声目标识别方向(基于生成的数据增强) TAES在投
 - 🏆 **[2025]**: 国家奖学金，优秀三好学生，博士青托计划出学院（校选被刷）。 TCCN*1+IoTJ*1
